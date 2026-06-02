@@ -1,0 +1,217 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/sextu-downloader",
+  "serply_link": "https://serp.ly/sextu-downloader",
+  "app_name": "Sextu Video Downloader",
+  "short_description": "Download & Save Sextu Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Sextu Downloader is a browser extension that detects and downloads video media from SexTu and associated FullVideoPorn pages. It works by monitoring browser-network activity during playback and capturing the exposed media for local export. No bypass capabilities are claimed — only media you can already access and have permission to save is targeted.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/sextu-downloader-fullscreen-01-816d429d86.webp",
+    "https://apps.serp.co/media/optimized-products/sextu-downloader-fullscreen-02-631d5c9771.webp",
+    "https://apps.serp.co/media/optimized-products/sextu-downloader-fullscreen-03-012141733b.webp",
+    "https://apps.serp.co/media/optimized-products/sextu-downloader-fullscreen-04-e3df38a8c4.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Is Sextu Downloader available in browser extension stores?",
+      "answer": "Store listings are not confirmed. The extension is distributed through GitHub Releases for manual installation."
+    },
+    {
+      "question": "Does it work on all Sextu pages?",
+      "answer": "The extension targets declared host patterns for Sextu and FullVideoPorn. Some pages may not expose media in a detectable way."
+    },
+    {
+      "question": "Can I download multiple videos at once?",
+      "answer": "The extension handles one download at a time. Complete the current download before starting another."
+    },
+    {
+      "question": "Is an internet connection required?",
+      "answer": "Yes, the extension needs an active connection to detect media sources and process downloads."
+    },
+    {
+      "question": "What happens after the free trial?",
+      "answer": "After 3 free downloads, you can purchase a license for unlimited use. No credit card is needed to start the trial."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Sextu Downloader is a browser extension that detects and downloads video media from SexTu and associated FullVideoPorn pages. It works by monitoring browser-network activity during playback and capturing the exposed media for local export. No bypass capabilities are claimed -- only media you can already access and have permission to save is targeted."
+    },
+    {
+      "name": "",
+      "description": "Keeping backup copies of content you have permission to save"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "SexTu-specific app identity with declared host matches for SexTu and FullVideoPorn domains",
+    "Browser-network media detection that surfaces content after playback begins",
+    "Ready-solid handoff confidence from verified target sources",
+    "No paywall bypass, private-access claims, or unauthorized content retrieval",
+    "MP4 output for easy playback and archiving",
+    "Browser-network media detection on SexTu and FullVideoPorn pages",
+    "MP4 output for broad playback compatibility",
+    "Popup interface for initiating and monitoring downloads",
+    "Quality selection based on available media variants",
+    "Local browser operation with no external servers involved",
+    "Secure email-based authentication with one-time password verification",
+    "Free trial with 3 downloads to test the workflow",
+    "Unlimited downloads available with a paid license"
+  ],
+  "content": {
+    "why": [
+      "Finding and saving video content from adult platforms can be frustrating when built-in download options are missing or limited. Many sites stream media in a way that makes local archiving difficult without third-party tools that often feel unreliable or unsafe.",
+      "Sextu Downloader solves this by providing a dedicated browser extension that detects media during normal playback on supported pages. It works with the content you are already viewing and exports it as MP4 files, giving you a straightforward way to keep copies for offline access or personal archives without relying on external software."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Sextu or FullVideoPorn and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the extension by downloading the correct build from the latest release page.",
+      "Navigate to a supported video page on Sextu or FullVideoPorn.",
+      "Press play and let the video start streaming in your browser.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Wait for available media sources to be detected and listed.",
+      "Select your preferred quality option from the detected variants.",
+      "Click the download button and let the export process complete.",
+      "Choose a save location and confirm the file download."
+    ],
+    "supported_formats": [
+      "Input: Video media detected from browser-network activity on supported SexTu and FullVideoPorn pages during playback",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Users who want to save videos from Sextu for offline viewing",
+      "People who prefer browser extensions over standalone download software",
+      "Viewers who need MP4 files for playback on multiple devices",
+      "Anyone testing media detection workflows on adult video platforms"
+    ],
+    "use_cases": [
+      "Archiving favorite videos for personal offline access",
+      "Building a local media library from watched content",
+      "Saving videos to watch when no internet connection is available",
+      "Transferring files to mobile devices or media players",
+      "Keeping backup copies of content you have permission to save"
+    ],
+    "troubleshooting": [
+      "Extension does not detect any media Make sure the video is actively playing in the browser tab. Some pages only expose media sources after playback has started.",
+      "Download fails or file is incomplete Check your internet connection and try again. If the issue persists, try refreshing the page and restarting playback.",
+      "Popup does not appear Confirm the extension is installed and enabled. Try reloading the page and clicking the extension icon again.",
+      "No quality options are shown Only variants detected during browser-network activity are listed. If only one source is found, that is the only option available.",
+      "Download takes too long Larger files may take longer depending on your connection speed and the source server. Ensure you have enough storage space."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Sextu or FullVideoPorn page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "Media detection depends on browser-network activity during playback",
+      "This is a generated extension candidate and should be tested before production use"
+    ],
+    "about": [
+      "Sextu is an adult video platform featuring a wide range of content from various creators and studios. Sextu Downloader helps you save videos you are already watching for offline access and personal archiving."
+    ]
+  },
+  "serpx_link": "https://serpx.link/sextu-downloader",
+  "github_topics": [
+    "sextu-download",
+    "sextu-downloader",
+    "sextu-video-downloader",
+    "sextu-video-downloader-online",
+    "sextu-video-downloader-mac",
+    "sextu-video-downloader-window",
+    "sextu-video-downloader-free",
+    "sextu-video-downloader-extension",
+    "sextu-video-downloader-app",
+    "sextu-video-downloader-chrome",
+    "sextu-video-downloader-from-url",
+    "how-to-download-sextu-videos",
+    "how-to-download-sextu-videos-mac",
+    "how-to-download-sextu-videos-windows",
+    "how-to-download-sextu-videos-online",
+    "how-to-download-sextu-videos-free",
+    "how-to-download-from-sextu",
+    "how-to-download-videos-from-sextu",
+    "download-sextu-videos",
+    "sextu-video-tutorial",
+    "save-sextu-videos",
+    "sextu-video-content-saver",
+    "how-to-download-sextu-videos-for-free"
+  ],
+  "hashtags": [
+    "#SextuDownload",
+    "#SextuDownloader",
+    "#SextuVideoDownloader",
+    "#SextuVideoDownloaderOnline",
+    "#SextuVideoDownloaderMac",
+    "#SextuVideoDownloaderWindow",
+    "#SextuVideoDownloaderFree",
+    "#SextuVideoDownloaderExtension",
+    "#SextuVideoDownloaderApp",
+    "#SextuVideoDownloaderChrome",
+    "#SextuVideoDownloaderFromURL",
+    "#HowToDownloadSextuVideos",
+    "#HowToDownloadSextuVideosMac",
+    "#HowToDownloadSextuVideosWindows",
+    "#HowToDownloadSextuVideosOnline",
+    "#HowToDownloadSextuVideosFree",
+    "#HowToDownloadFromSextu",
+    "#HowToDownloadVideosFromSextu",
+    "#DownloadSextuVideos",
+    "#SextuVideoTutorial",
+    "#SaveSextuVideos",
+    "#SextuVideoContentSaver",
+    "#HowToDownloadSextuVideosForFree"
+  ],
+  "youtube_tags": [
+    "Sextu Download",
+    "Sextu Downloader",
+    "Sextu Video Downloader",
+    "Sextu Video Downloader Online",
+    "Sextu Video Downloader Mac",
+    "Sextu Video Downloader Window",
+    "Sextu Video Downloader Free",
+    "Sextu Video Downloader Extension",
+    "Sextu Video Downloader App",
+    "Sextu Video Downloader Chrome",
+    "Sextu Video Downloader From URL",
+    "How To Download Sextu Videos",
+    "How To Download Sextu Videos Mac",
+    "How To Download Sextu Videos Windows",
+    "How To Download Sextu Videos Online",
+    "How To Download Sextu Videos Free",
+    "How To Download From Sextu",
+    "How To Download Videos From Sextu",
+    "Download Sextu Videos",
+    "Sextu Video Tutorial",
+    "Save Sextu Videos",
+    "Sextu Video Content Saver",
+    "How To Download Sextu Videos For Free"
+  ]
+}
